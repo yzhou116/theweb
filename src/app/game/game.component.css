@@ -1,0 +1,15 @@
+/* 
+  button {
+    margin-left: -15px;
+  }
+  .mat-row:hover .mat-cell {
+    border-color: currentColor;
+  } */
+  table {
+    width: 100%;
+  }
+
+  .mat-elevation-z8 {    
+    overflow-x: auto;
+   }
+  

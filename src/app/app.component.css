@@ -1,0 +1,51 @@
+.navbar{
+    justify-content: space-between;
+ 
+}
+span{
+    padding-right: 1rem;
+}
+.namefooter{
+    margin-left: 43%;
+}
+.webfooter{
+  
+    margin-left: 40%;
+}
+.datefooter{
+    margin-left: 42%;
+}
+.mfooter{
+    margin-top: 30px;
+}
+
+
+
+
+.valign-center {
+    display: inline-flex;
+    vertical-align: middle;
+    align-items: center;
+  }
+  
+  a {
+    text-decoration: none;
+    color: white;
+  }
+  
+  a:hover, a:active {
+    color: lightgray;
+  }
+  
+  .menu-items {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  
+  mat-toolbar {
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0px;
+    z-index: 999;
+  }
